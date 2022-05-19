@@ -98,6 +98,90 @@ Config.FarmingMultiItems = {
                 available = 20,                                 -- available in stock
                 regeneration = 60,                              -- in second
             },
+            ['blueberry_jam_cookie'] = {
+                name = 'Blueberry Jam Cookie',                      -- item name
+                price = 10,                                     -- price of the item. set it 0 if you don't want to buy with society money
+                slots = 20,                                     -- container size
+                available = 20,                                 -- available in stock
+                regeneration = 60,                              -- in second
+            },
+            ['butter_cookie'] = {
+                name = 'Butter Cookie',                      -- item name
+                price = 10,                                     -- price of the item. set it 0 if you don't want to buy with society money
+                slots = 20,                                     -- container size
+                available = 20,                                 -- available in stock
+                regeneration = 60,                              -- in second
+            },
+            ['cookie_craze'] = {
+                name = 'Cookie Craze',                      -- item name
+                price = 10,                                     -- price of the item. set it 0 if you don't want to buy with society money
+                slots = 20,                                     -- container size
+                available = 20,                                 -- available in stock
+                regeneration = 60,                              -- in second
+            },
+            ['get_figgy'] = {
+                name = 'Get Figgy',                      -- item name
+                price = 10,                                     -- price of the item. set it 0 if you don't want to buy with society money
+                slots = 20,                                     -- container size
+                available = 20,                                 -- available in stock
+                regeneration = 60,                              -- in second
+            },
+            ['key_lime_cookie'] = {
+                name = 'Key Lime Cookie',                      -- item name
+                price = 10,                                     -- price of the item. set it 0 if you don't want to buy with society money
+                slots = 20,                                     -- container size
+                available = 20,                                 -- available in stock
+                regeneration = 60,                              -- in second
+            },
+            ['marshmallow_crisp'] = {
+                name = 'Marshmallow Crisp',                      -- item name
+                price = 10,                                     -- price of the item. set it 0 if you don't want to buy with society money
+                slots = 20,                                     -- container size
+                available = 20,                                 -- available in stock
+                regeneration = 60,                              -- in second
+            },
+            ['no_99'] = {
+                name = 'NO 99',                      -- item name
+                price = 10,                                     -- price of the item. set it 0 if you don't want to buy with society money
+                slots = 20,                                     -- container size
+                available = 20,                                 -- available in stock
+                regeneration = 60,                              -- in second
+            },
+            ['paris_fog'] = {
+                name = 'Paris Fog',                      -- item name
+                price = 10,                                     -- price of the item. set it 0 if you don't want to buy with society money
+                slots = 20,                                     -- container size
+                available = 20,                                 -- available in stock
+                regeneration = 60,                              -- in second
+            },
+            ['pogo'] = {
+                name = 'Pogo',                      -- item name
+                price = 10,                                     -- price of the item. set it 0 if you don't want to buy with society money
+                slots = 20,                                     -- container size
+                available = 20,                                 -- available in stock
+                regeneration = 60,                              -- in second
+            },
+            ['pumpkin_cookie'] = {
+                name = 'Pumpkin Cookie',                      -- item name
+                price = 10,                                     -- price of the item. set it 0 if you don't want to buy with society money
+                slots = 20,                                     -- container size
+                available = 20,                                 -- available in stock
+                regeneration = 60,                              -- in second
+            },
+            ['shamrock_cookie'] = {
+                name = 'Shamrock Cookie',                      -- item name
+                price = 10,                                     -- price of the item. set it 0 if you don't want to buy with society money
+                slots = 20,                                     -- container size
+                available = 20,                                 -- available in stock
+                regeneration = 60,                              -- in second
+            },
+            ['strawberry_jam_cookie'] = {
+                name = 'Strawberry Jam Cookie',                      -- item name
+                price = 10,                                     -- price of the item. set it 0 if you don't want to buy with society money
+                slots = 20,                                     -- container size
+                available = 20,                                 -- available in stock
+                regeneration = 60,                              -- in second
+            },
             
         }
     }

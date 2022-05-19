@@ -560,13 +560,66 @@ Config.Shop = {
                 page = 2                    -- Set on which page this item will appear
             },
             
+            blueberry_jam_cookie = {                    -- The item ID
+                name = "Blueberry Jam Cookie",          -- The item display name
+                page = 3                    -- Set on which page this item will appear
+            },
+            butter_cookie = {                    -- The item ID
+                name = "Butter Cookie",          -- The item display name
+                page = 3                    -- Set on which page this item will appear
+            },
+            cookie_craze = {                    -- The item ID
+                name = "Cookie Craze",          -- The item display name
+                page = 3                    -- Set on which page this item will appear
+            },
+            get_figgy = {                    -- The item ID
+                name = "Get Figgy",          -- The item display name
+                page = 3                    -- Set on which page this item will appear
+            },
+            key_lime_cookie = {                    -- The item ID
+                name = "Key Lime Cookie",          -- The item display name
+                page = 3                    -- Set on which page this item will appear
+            },
+            marshmallow_crisp = {                    -- The item ID
+                name = "Marshmallow Crisp",          -- The item display name
+                page = 3                    -- Set on which page this item will appear
+            },
+            no_99 = {                    -- The item ID
+                name = "NO 99",          -- The item display name
+                page = 3                    -- Set on which page this item will appear
+            },
+            paris_fog = {                    -- The item ID
+                name = "Paris Fog",          -- The item display name
+                page = 3                    -- Set on which page this item will appear
+            },
+            pogo = {                    -- The item ID
+                name = "Pogo",          -- The item display name
+                page = 3                    -- Set on which page this item will appear
+            },
+            pumpkin_cookie = {                    -- The item ID
+                name = "Pumpkin Cookie",          -- The item display name
+                page = 3                    -- Set on which page this item will appear
+            },
+            shamrock_cookie = {                    -- The item ID
+                name = "Shamrock Cookie",          -- The item display name
+                page = 3                    -- Set on which page this item will appear
+            },
+            strawberry_jam_cookie = {                    -- The item ID
+                name = "Strawberry Jam Cookie",          -- The item display name
+                page = 3                    -- Set on which page this item will appear
+            },
+            
             lighter = {                     -- The item ID
                 name = "Lighter",           -- The item display name
-                page = 3                    -- Set on which page this item will appear
+                page = 4                    -- Set on which page this item will appear
             },
             cheap_lighter = {               -- The item ID
                 name = "Cheap Lighter",     -- The item display name
-                page = 3                    -- Set on which page this item will appear
+                page = 4                    -- Set on which page this item will appear
+            },
+            vape = {               -- The item ID
+                name = "Vape",     -- The item display name
+                page = 4                    -- Set on which page this item will appear
             },
             
         },
@@ -574,7 +627,8 @@ Config.Shop = {
             [0] = {name = "Flavours", icon = 'fa-cookie-bite'},
             [1] = {name = "Backwoods", icon = 'fa-cookie-bite'},
             [2] = {name = "Joints", icon = 'fa-cookie-bite'},
-            [3] = {name = "Utilities", icon = 'fa-cookie-bite'},
+            [3] = {name = "Vape", icon = 'fa-cookie-bite'},
+            [4] = {name = "Utilities", icon = 'fa-cookie-bite'},
         },
     }
 }

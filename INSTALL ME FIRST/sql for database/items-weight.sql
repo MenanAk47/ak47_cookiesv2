@@ -1,5 +1,6 @@
 DELETE FROM items WHERE name = 'lighter';
 DELETE FROM items WHERE name = 'cheap_lighter';
+DELETE FROM items WHERE name = 'vape';
 
 DELETE FROM items WHERE name = 'gelatti';
 DELETE FROM items WHERE name = 'gary_payton';
@@ -75,6 +76,19 @@ DELETE FROM items WHERE name = 'paxton_pearl_cigars';
 DELETE FROM items WHERE name = 'banana_backwoods';
 DELETE FROM items WHERE name = 'raw_cone_king';
 
+DELETE FROM items WHERE name = 'blueberry_jam_cookie';
+DELETE FROM items WHERE name = 'butter_cookie';
+DELETE FROM items WHERE name = 'cookie_craze';
+DELETE FROM items WHERE name = 'get_figgy';
+DELETE FROM items WHERE name = 'key_lime_cookie';
+DELETE FROM items WHERE name = 'marshmallow_crisp';
+DELETE FROM items WHERE name = 'no_99';
+DELETE FROM items WHERE name = 'paris_fog';
+DELETE FROM items WHERE name = 'pogo';
+DELETE FROM items WHERE name = 'pumpkin_cookie';
+DELETE FROM items WHERE name = 'shamrock_cookie';
+DELETE FROM items WHERE name = 'strawberry_jam_cookie';
+
 DELETE FROM items WHERE name = 'pooch_bag';
 DELETE FROM items WHERE name = 'seed_weed';
 DELETE FROM items WHERE name = 'weed_fertilizer';
@@ -86,6 +100,7 @@ DELETE FROM items WHERE name = 'weed_spray';
 INSERT INTO `items` (`name`, `label`, `weight`) VALUES
 	('lighter', 'Lighter', 1),
 	('cheap_lighter', 'Cheap Lighter', 1),
+	('vape', 'Vape', 1),
 
 	('gelatti', 'Gelatti', 1),
 	('gary_payton', 'Gary Payton', 1),
@@ -160,6 +175,19 @@ INSERT INTO `items` (`name`, `label`, `weight`) VALUES
 	('paxton_pearl_cigars', 'Paxton Pearl Cigars', 1),
 	('banana_backwoods', 'Banana Backwoods', 1),
 	('raw_cone_king', 'Raw Cone King', 1),
+
+	('blueberry_jam_cookie', 'Blueberry Jam Cookie', 1),
+	('butter_cookie', 'Butter Cookie', 1),
+	('cookie_craze', 'Cookie Craze', 1),
+	('get_figgy', 'Get Figgy', 1),
+	('key_lime_cookie', 'Key Lime Cookie', 1),
+	('marshmallow_crisp', 'Marshmallow Crisp', 1),
+	('no_99', 'NO 99', 1),
+	('paris_fog', 'Paris Fog', 1),
+	('pogo', 'Pogo', 1),
+	('pumpkin_cookie', 'Pumpkin Cookie', 1),
+	('shamrock_cookie', 'Shamrock Cookie', 1),
+	('strawberry_jam_cookie', 'Strawberry Jam Cookie', 1),
 	
 	('pooch_bag', 'Pooch Bag', 1),
 	('seed_weed', 'Weed Seed', 1),
