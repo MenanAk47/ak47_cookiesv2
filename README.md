@@ -1,6 +1,7 @@
 <h1>FIVEM COOKIES V2 SCRIPT + FARMING + JOB + SHOP | ESX FRAMEWORK</h1>
 <p>Required minimum <span style="color: #339966;">$10</span> of patreon membership. <a href="https://patreon.com/menanak47" target="_blank">Get your membership</a> (if you don't have already)</p>
 <p>Video Showcase: <a href="https://youtu.be/tNQ3U5F6yv8" target="_blank">YouTube</a></p>
+<p><strong>Fully Compatible With</strong>&nbsp;<a href="https://github.com/MenanAk47/ak47_usablecookiesv2" target="_blank"><strong>ak47_usablecookiesv2</strong></a></p>
 <p><strong>New Features: </strong></p>
 <ol>
 <li>79 items included</li>
